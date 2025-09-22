@@ -13,3 +13,13 @@ The audio file needs to have a few moments of silence at the start of the file, 
 ## Import Music to Rhythmiga 2
 
 Once you have prepared the audio file it is time to import the file to Rhythmiga 2. Open Rhythmiga 2 and head to the Import Music & Beatmap tool. Here, press the Import Music button,navigate to where you placed the audio file, and select it. Once imported, you can listen to file to ensure it is the correct file. Re-importing the file will override the previous file as well as the beatmaps associated with it. The audio file must be imported before any beatmaps.
+
+## Import RHY to Rhythmiga 2
+
+With the music imported the Import RHY button will enable, allowing you to add the beatmaps. Note: Leaving the Import Music tool at this point will require re-importing the music file.
+
+Select Import RHY and navigate to the RHY file you wish to import. After the completion of the import you will see the song information you added during the conversion of the MIDI to a RHY file, giving you an opportunity to make sure everything is correct. Do this for every beatmap you wish to add to the current imported song.
+
+## Finish
+
+At this point you can head to the Song Select and try out the beatmaps.

@@ -5,6 +5,7 @@ title: MIDI Converter Guide
 
 ## Introduction
 Rhythmiga 2 is rhythm game based on the Theatrhythm game series developed indieszero, specifically, the latest entry Theatrhythm Final Bar Line. This guide focuses on how to create MIDI files that can be converted into beatmaps. Rhythmiga 2 uses the beatmaps to create the on-screen notes the player interacts with. If the rules set-forth in this guide are not properly followed it can lead to a broken beatmap. A basic understanding of music theory and of how to use a MIDI editor is required.
+
 ## Quick Reference
 ### Lane
 - Lane 1 Keys: B
